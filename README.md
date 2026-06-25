@@ -24,7 +24,7 @@ PHP / Laravel developer with 2-3 years of experience building production backend
 
 **Databases** `MySQL` `PostgreSQL` `Redis`
 
-**Frontend** `JavaScript`  `Vue.js` `Bootstrap` `Tailwind CSS` `HTML5` `CSS3`
+**Frontend** `JavaScript` `React js` `Vue.js` `Bootstrap` `Tailwind CSS` `HTML5` `CSS3`
 
 **DevOps & Hosting** `Docker` `Nginx`  `Netlify`
 
