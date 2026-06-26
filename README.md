@@ -1,5 +1,5 @@
 # Erdonov Asilbek
-
+![Tech Stack Banner](./assets/images/wallpapersden_com_laravel-php-4k_4000x2250.jpg)
 #### PHP / Laravel Developer — building production-ready backend systems & REST APIs
 
 ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white)
