@@ -20,13 +20,15 @@ PHP / Laravel developer with 2-3 years of experience building production backend
 
 ## 🧰 Tech Stack
 
-**Backend** `PHP` `Laravel` `REST API` `SOLID`
-
-**Databases** `MySQL` `PostgreSQL` `Redis`
-
-**Frontend** `JavaScript` `React js` `Vue.js` `Bootstrap` `Tailwind CSS` `HTML5` `CSS3`
-
-**DevOps & Hosting** `Docker` `Nginx`  `Netlify`
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 💼 Featured Projects
 
