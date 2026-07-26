@@ -14,6 +14,7 @@
 PHP / Laravel developer with 2-3 years of experience building production backend systems — REST APIs, role-based platforms, and admin panels for real clients. Recently expanded into Go for building high-load microservices.
 
 - 🛠️ **Currently:** Building and maintaining Laravel/Yii2-based platforms with REST APIs, role management, and approval workflows
+- 🔒 **Security-conscious deployments:** isolated Docker networks, firewall configuration, secrets management, automated backups
 - 🚀 **Shipped:** SBS Decor, Medicard.uz, ResumeBot, and Univercity Portal — all live in production
 - 📍 Based in Tashkent, Uzbekistan
 - 🌐 Portfolio: [asilbekerdonov-portfolio.netlify.app](https://asilbekerdonov-portfolio.netlify.app/)
@@ -62,7 +63,7 @@ PHP / Laravel developer with 2-3 years of experience building production backend
 
 | Project | Stack | Description |
 |---------|-------|--------------|
-| [Univercity Portal](https://github.com/asilbekerdonov/Univercity-Portal) | Yii2 · TypeScript · Go · PostgreSQL · RabbitMQ · Redis | Microservice-based university portal: Yii2 core service + separate Go notification service, JWT auth, RBAC, monitored with Prometheus/Grafana, load-tested at 30,000 RPS |
+| [Univercity Portal](https://github.com/asilbekerdonov/Univercity-Portal) · [Link](http://alfaunivercity.duckdns.org) | Yii2 · TypeScript · Go · PostgreSQL · RabbitMQ · Redis | Microservice-based university portal: Yii2 core service + separate Go notification service, JWT auth, RBAC. Deployed via Docker Compose on a hardened production VPS with isolated networks and automated backups, monitored with Prometheus/Grafana, CI/CD via GitHub Actions |
 | [SBS Decor](https://sbsdekor.uz/) | Laravel · MySQL · REST API | Corporate site for an architectural décor company, with product catalogue and admin panel |
 | [Medicard.uz](https://medicard.uz) | Laravel · PostgreSQL · Vue3 · REST API | Medical platform with role-based access for patients, doctors, and moderators |
 | [ResumeBot](https://resumebot.com.uz) | PHP · Redis · Laravel Horizon · SOLID | HR platform automating request approval workflows with multilingual Telegram notifications |
