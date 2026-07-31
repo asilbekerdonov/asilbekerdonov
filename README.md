@@ -67,6 +67,8 @@ PHP / Laravel developer with 2-3 years of experience building production backend
 | [SBS Decor](https://sbsdekor.uz/) | Laravel · MySQL · REST API | Corporate site for an architectural décor company, with product catalogue and admin panel |
 | [Medicard.uz](https://medicard.uz) | Laravel · PostgreSQL · Vue3 · REST API | Medical platform with role-based access for patients, doctors, and moderators |
 | [ResumeBot](https://resumebot.com.uz) | PHP · Redis · Laravel Horizon · SOLID | HR platform automating request approval workflows with multilingual Telegram notifications |
+| [AutoParts CRM](https://github.com/asilbekerdonov/auto-ehtiyot-qisimlar) | PHP 8.3 · Laravel 13 · SQLite/MySQL · Blade · Laravel Excel | Inventory management system for auto parts store: products, stock, sales, debtors, analytics. Service-oriented architecture with Controllers → Services → Repositories → Models, CI via GitHub Actions |
+| [Email Service](https://github.com/asilbekerdonov/email_service) | Go · PostgreSQL · RabbitMQ · Redis · Prometheus · Grafana · Docker Compose | High-load microservice for async email delivery with message queuing, persistent history, real-time metrics and monitoring dashboards. Supports both REST API and gRPC with server reflection |
 
 ## 📫 Connect
 
