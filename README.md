@@ -11,11 +11,11 @@
 
 ## 🙋‍♂️ About
 
-PHP / Laravel developer with 2-3 years of experience building production backend systems — REST APIs, role-based platforms, and admin panels for real clients. Recently expanded into Go for building high-load microservices.
+PHP / Laravel developer with 2-3 years of experience building production backend systems — REST APIs, role-based platforms, and admin panels for real clients. Experienced in building real-time collaborative applications with WebSocket integration.
 
 - 🛠️ **Currently:** Building and maintaining Laravel/Yii2-based platforms with REST APIs, role management, and approval workflows
 - 🔒 **Security-conscious deployments:** isolated Docker networks, firewall configuration, secrets management, automated backups
-- 🚀 **Shipped:** SBS Decor, Medicard.uz, ResumeBot, and Univercity Portal — all live in production
+- 🚀 **Shipped:** SBS Decor, Medicard.uz, ResumeBot, Univercity Portal, and CIRCUIT HUB — all live in production
 - 📍 Based in Tashkent, Uzbekistan
 - 🌐 Portfolio: [asilbekerdonov-portfolio.netlify.app](https://asilbekerdonov-portfolio.netlify.app/)
 
@@ -24,10 +24,8 @@ PHP / Laravel developer with 2-3 years of experience building production backend
 **Languages**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 **Frameworks**
@@ -36,7 +34,6 @@ PHP / Laravel developer with 2-3 years of experience building production backend
 ![Yii2](https://img.shields.io/badge/Yii2-1B4A7E?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Vue3](https://img.shields.io/badge/Vue3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 **Databases & Queues**
 
@@ -53,22 +50,20 @@ PHP / Laravel developer with 2-3 years of experience building production backend
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**Monitoring & API Docs**
+**API Docs**
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ## 💼 Featured Projects
 
 | Project | Stack | Description |
 |---------|-------|--------------|
-| [Univercity Portal](https://github.com/asilbekerdonov/Univercity-Portal) · [Link](http://alfaunivercity.duckdns.org) | Yii2 · TypeScript · Go · PostgreSQL · RabbitMQ · Redis | Microservice-based university portal: Yii2 core service + separate Go notification service, JWT auth, RBAC. Deployed via Docker Compose on a hardened production VPS with isolated networks and automated backups, monitored with Prometheus/Grafana, CI/CD via GitHub Actions |
+| [CIRCUIT HUB](https://github.com/asilbekerdonov/CIRCUIT-HUB) · [Link](http://circuit-hub.duckdns.org:8080/) | Laravel · Vue3 · WebSockets · PostgreSQL · Redis | Collaborative Logic Studio for real-time digital circuit design, simulation, and verification. Multi-user collaboration with live updates via WebSocket connections |
+| [Univercity Portal](https://github.com/asilbekerdonov/Univercity-Portal) · [Link](http://alfaunivercity.duckdns.org) | Yii2 · TypeScript · PostgreSQL · RabbitMQ · Redis | Microservice-based university portal: Yii2 core service + separate notification service, JWT auth, RBAC. Deployed via Docker Compose on a hardened production VPS with isolated networks and automated backups, CI/CD via GitHub Actions |
 | [SBS Decor](https://sbsdekor.uz/) | Laravel · MySQL · REST API | Corporate site for an architectural décor company, with product catalogue and admin panel |
 | [Medicard.uz](https://medicard.uz) | Laravel · PostgreSQL · Vue3 · REST API | Medical platform with role-based access for patients, doctors, and moderators |
 | [ResumeBot](https://resumebot.com.uz) | PHP · Redis · Laravel Horizon · SOLID | HR platform automating request approval workflows with multilingual Telegram notifications |
 | [AutoParts CRM](https://github.com/asilbekerdonov/auto-ehtiyot-qisimlar) | PHP 8.3 · Laravel 13 · SQLite/MySQL · Blade · Laravel Excel | Inventory management system for auto parts store: products, stock, sales, debtors, analytics. Service-oriented architecture with Controllers → Services → Repositories → Models, CI via GitHub Actions |
-| [Email Service](https://github.com/asilbekerdonov/email_service) | Go · PostgreSQL · RabbitMQ · Redis · Prometheus · Grafana · Docker Compose | High-load microservice for async email delivery with message queuing, persistent history, real-time metrics and monitoring dashboards. Supports both REST API and gRPC with server reflection |
 
 ## 📫 Connect
 
