@@ -15,7 +15,7 @@ PHP / Laravel developer with 2-3 years of experience building production backend
 
 - 🛠️ **Currently:** Building and maintaining Laravel/Yii2-based platforms with REST APIs, role management, and approval workflows
 - 🔒 **Security-conscious deployments:** isolated Docker networks, firewall configuration, secrets management, automated backups
-- 🚀 **Shipped:** SBS Decor, Medicard.uz, ResumeBot, Univercity Portal, and CIRCUIT HUB — all live in production
+- 🚀 **Shipped:** Atlas, SBS Decor, Medicard.uz, ResumeBot, Univercity Portal, and CIRCUIT HUB — all live in production
 - 📍 Based in Tashkent, Uzbekistan
 - 🌐 Portfolio: [asilbekerdonov-portfolio.netlify.app](https://asilbekerdonov-portfolio.netlify.app/)
 
@@ -58,6 +58,7 @@ PHP / Laravel developer with 2-3 years of experience building production backend
 
 | Project | Stack | Description |
 |---------|-------|--------------|
+| [Atlas](https://github.com/asilbekerdonov/atlas) · [Link](http://atlascv.duckdns.org:8001/) | Symfony · PHP 8.4 · PostgreSQL · Bootstrap · Cloudinary · Yandex Maps · Mercure | Scalable web platform for candidates and recruiters covering the full hiring cycle: interactive profile, flexible CV builder, smart job matching, and direct discussions. Features direct Cloudinary uploads via presigned URLs, autosave, geolocation via Yandex Maps, RBAC, and multi-level rate limiting |
 | [CIRCUIT HUB](https://github.com/asilbekerdonov/CIRCUIT-HUB) · [Link](http://circuit-hub.duckdns.org:8080/) | Laravel · Vue3 · WebSockets · PostgreSQL · Redis | Collaborative Logic Studio for real-time digital circuit design, simulation, and verification. Multi-user collaboration with live updates via WebSocket connections |
 | [Univercity Portal](https://github.com/asilbekerdonov/Univercity-Portal) · [Link](http://alfaunivercity.duckdns.org) | Yii2 · TypeScript · PostgreSQL · RabbitMQ · Redis | Microservice-based university portal: Yii2 core service + separate notification service, JWT auth, RBAC. Deployed via Docker Compose on a hardened production VPS with isolated networks and automated backups, CI/CD via GitHub Actions |
 | [SBS Decor](https://sbsdekor.uz/) | Laravel · MySQL · REST API | Corporate site for an architectural décor company, with product catalogue and admin panel |
